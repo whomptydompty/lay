@@ -1,2 +1,2 @@
 # lay
-A dune inspired rhythm game in opengl
+A dune inspired rhythm game in raylib
